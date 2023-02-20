@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9J6uNPdX+NTlJeKpS92p+x/yZ//Cusj86PePv7Gt8RsPAo/rum+fPUguE9vaYR2xer0Wa7G1Qr8DiYKbsbZew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liast\\source\\repos\\.NETDB\\week4Assignmnet\\week4Assignmnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\nlog\\5.1.2\\nlog.5.1.2.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\nlog.extensions.logging\\5.2.2\\nlog.extensions.logging.5.2.2.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\nlog.web.aspnetcore\\5.2.2\\nlog.web.aspnetcore.5.2.2.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\liast\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

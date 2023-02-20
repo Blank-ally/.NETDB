@@ -1,0 +1,16 @@
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\class02.exe
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\class02.deps.json
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\class02.runtimeconfig.json
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\class02.dll
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\class02.pdb
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.csproj.AssemblyReference.cache
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.AssemblyInfoInputs.cache
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.AssemblyInfo.cs
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.csproj.CoreCompileInputs.cache
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.dll
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\refint\class02.dll
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.pdb
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\class02.genruntimeconfig.cache
+C:\Users\liast\source\repos\.NETDB\class02\obj\Debug\net6.0\ref\class02.dll
+C:\Users\liast\source\repos\.NETDB\class02\bin\Debug\net6.0\tickets.csv
