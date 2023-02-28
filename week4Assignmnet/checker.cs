@@ -82,7 +82,7 @@ namespace week4Assignmnet
         public string create(Int64 id,string title, String genres)
 
         {
-            return $"ID: {id}\nTitle: {title}\nGenre:{genres}";
+            return $"{id},{title},{genres}";
 
         }
     }

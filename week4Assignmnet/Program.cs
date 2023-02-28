@@ -104,8 +104,8 @@ internal class Program
                 }
 
 
-                sw.WriteLine(check.create(id, title, string.Join(',', genres)));
-                Lines.Add(check.create(id, title, string.Join(',', genres)));
+                sw.WriteLine(check.create(id, title, string.Join('|', genres)));
+                Lines.Add(check.create(id, title, string.Join('|', genres)));
 
 
                 sw.Close(); // always close and don't loop your close statement
